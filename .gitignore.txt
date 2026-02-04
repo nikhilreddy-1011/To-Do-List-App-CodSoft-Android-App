@@ -1,0 +1,23 @@
+# Gradle & build
+.gradle/
+build/
+app/build/
+
+# IDE
+.idea/
+.vscode/
+
+# Local / machine specific
+local.properties
+*.dex
+*.log
+caches/
+daemon/
+jdks/
+kotlin-profile/
+native/
+.tmp/
+
+# OS
+.DS_Store
+Thumbs.db
